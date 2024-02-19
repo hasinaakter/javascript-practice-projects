@@ -1,0 +1,147 @@
+[
+    {
+      "_id": "1",
+      "name": "Jute Box",
+      "image": "/images/BambooFlask.jpg",
+      "description": "Our stylishly sustainable recycled Jute pencil holder is a must-have for any stationery fan, the perfect way to store all of your desktop essentials.Made from 100% recycled  our beautifully colourful pencil pots add a touch of rustic elegance to any desk. Perfect for turning something mundane into something full of joy and colour, ideal when paired with our recycled Jute pencils holder.",
+      "brand": "No brand",
+      "category": "pencilbox",
+      "price": 200,
+      "countInStock": 10,
+      "rating": 4.5,
+      "numReviews": 12
+    },
+    {       
+      "_id": "2",
+      "name": "Pencil Holder",
+      "image": "/images/Pencil_Holder.jpg",
+      "description": "This is very simple designed pencil box.With the hanmade design of flower.With it you can easily hold pencil and add a elegance to any desk",
+      "brand": "no brand",
+      "category": "pencilbox",
+      "price": 149,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "_id": "3",
+      "name": "Bamboo Vase",
+      "image": "/images/Showpiece_bamboo.jpg",
+      "description": "Handmade Bamboo Vase handicraft works Container Home DecorationsCondition: New Never Used.White Bamboo.",
+      "brand": "no brand",
+      "category": "homedecoration",
+      "price": 290.99,
+      "countInStock": 5,
+      "rating": 3,
+      "numReviews": 12
+    },
+    {
+      "_id": "4",
+      "name": "Flower pot with design",
+      "image": "/images/small_pot.jpg",
+      "description": "This small flower pot is perfect for herbs, succulents, cacti or other small plants in a windowsill or around the house. The front is decorated with a stamped design of bird tracks, slightly blurred as they look in the desert soil. The neck is curved inward to help conserve moisture. The base of the pot has a drainage hole so water can drain easily away from roots.",
+      "brand": "no brand",
+      "category": "homdecoration",
+      "price": 99.99,
+      "countInStock": 11,
+      "rating": 5,
+      "numReviews": 12
+    },
+    {
+      "_id": "6",
+      "name": "Handmade greetings card",
+      "image": "/images/Greeting_Cards.jpg",
+      "description": "A sweet, handmade card with a unique design that has been carefully crafted to make you smile. A beautifully delicate flower design with surrounded by colourful blossom.",
+      "brand": "nobrand",
+      "category": "handmadeproduct",
+      "price": 29.99,
+      "countInStock": 9,
+      "rating": 4,
+      "numReviews": 82
+    },
+    {
+      "_id": "7",
+      "name": "Bronze Pots",
+      "image": "/images/Bronze_pots.jpg",
+      "description": "We have huge collection of bronze pot with different types of color desing and size to make you smile.so do order.",
+      "brand": "nobrand",
+      "category": "handmadeproduct",
+      "price": 29.99,
+      "countInStock": 7,
+      "rating": 4.2,
+      "numReviews": 13
+    },
+    {
+      "_id": "8",
+      "name": "Hand Painted Flower Pot",
+      "image": "/images/flower_vase_small.jpg",
+      "description": "Hand Painted Flower Pot - Vase - Soil - all natural.This flower pot is completely hand-painted. Each pot is personal and one-of-a-kind. It can be with or without a plate upon request. Flowers are placed for shooting purposes and are not included in the sale.You can send us an e-mail for different patterns, models and sizes.",
+      "brand": "nobrand",
+      "category": "handmadeproduct",
+      "price": 79.99,
+      "countInStock": 5,
+      "rating": 4.5,
+      "numReviews": 22
+    },
+    {
+      "_id": "9",
+      "name": "White Pillar Candles",
+      "image": "/images/Candles.jpg",
+      "description": " White Pillar Candles.These beautiful, rustic candles are a lovely pure White colour. To get different size contact with us",
+      "brand": "nobrand",
+      "category": "candles",
+      "price": 9.99,
+      "countInStock": 20,
+      "rating": 4.8,
+      "numReviews": 15
+    },
+    {
+      "_id": "10",
+      "name": "Bronze Water Glass",
+      "image": "/images/Bronze_water_glass.jpg",
+      "description": "Kansa purifies food and cures acidity. A lifestyle and utilitarian Kansa object, beautifully simple, this bronze dinner set is perfect for serving any liquid or dry food. This beautiful set boasts a hand sculpted, natural and fired patina on the surface. According to Ayurveda, Kansa vessels has anThis product is equally valuable even after damage as this Kansa metal is easily recyclable. It is highly durable, corrosion resistant and suitable for daily use.",
+      "brand": "nobrand",
+      "category": "dailyuseproduct",
+      "price": 500.99,
+      "countInStock": 10,
+      "rating": 4.3,
+      "numReviews": 1
+    },
+    {
+      "_id": "11",
+      "name": "Cotton Bag",
+      "image": "/images/Cotton_bag_red.jpg",
+      "description": "Red color cotton bag with simple design.Very light weight.This bag is the perfect gift option for family, friends, and loved ones. Gift the special fan in your life something they will cherish for a long time.",
+      "brand": "nobrand",
+      "category": "dailyuseproduct",
+      "price": 200.99,
+      "countInStock": 80,
+      "rating": 4.1,
+      "numReviews": 52
+    },
+    {
+      "_id": "12",
+      "name": "3D Shapes folwer vase",
+      "image": "/images/Flower_vase-02.jpg",
+      "description": "Hand Painted Flower Pot - Vase - Soil - all natural.This flower pot is completely hand-painted.This is colored with whit and 3D types of shapes.",
+      "brand": "nobrand",
+      "category": "dailyuseproduct",
+      "price": 100.99,
+      "countInStock": 40,
+      "rating": 4.5,
+      "numReviews": 22
+    },
+
+    {
+      "_id": "13",
+      "name": "Jute items",
+      "image": "/images/Jute-item.jpg",
+      "description": "We have various types of jutes product.With you can naturraly decorate your home.Email us for more desired need of yours ",
+      "brand": "nobrand",
+      "category": "juteproducts",
+      "price": 105.99,
+      "countInStock": 80,
+      "rating": 5,
+      "numReviews": 52
+    }
+  ]

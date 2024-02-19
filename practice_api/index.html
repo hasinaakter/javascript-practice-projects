@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Load Country</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .countryshow {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 30px;
+            width: 80%;
+            margin: auto;
+            margin-top: 50px;
+        }
+
+        .countryDiv {
+            border: 2px solid gray;
+            padding: 30px;
+            border-top-right-radius: 50px;
+            border-bottom-left-radius: 50px;
+        }
+
+        .images{
+            height:150px;
+            width:100%;
+            margin-top: 10px;
+            border-radius: 5%;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <button><a href="">Click Here</a></button> -->
+    <div id="country">
+        
+    </div>
+        <!-- load api -->
+        <script src="/js/api.js"></script>
+</body>
+
+</html>

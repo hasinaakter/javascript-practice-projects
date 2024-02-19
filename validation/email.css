@@ -1,0 +1,44 @@
+li {
+
+    list-style-type: none;
+    margin-top: 15px;
+    font-size: 16pt;
+  }
+  
+
+  .mail {
+    margin: 50px auto;
+    padding-top: 10px 0px;
+    width: 400px;
+    background: rgb(203, 228, 228);
+    border: 1px soild silver;
+    border-radius: 5px;
+    box-shadow: 1.5px 1.5px 4px 4px;
+    padding: 20px;
+  }
+  
+  .mail h2 {
+    margin-left: 38px;
+    color: white;  
+  }
+  
+  input {
+  
+    font-size: 20pt;
+  
+  }
+  
+  input:focus,
+  
+  textarea:focus {
+  
+    background-color: lightyellow;
+  
+  }
+  
+  input validate {
+  
+    font-size: 12pt;
+  
+  }
+  

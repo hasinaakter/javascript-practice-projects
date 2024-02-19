@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Practice addEventListener</title>
+</head>
+
+<body>
+  <div id="child-adding">
+    <button onclick="document.body.style.background = 'red'">Click to Red Background</button>
+    <button onclick="blueColor()">Click to Blue Background</button>
+    <button id="yellowColor">Click to yellow Background</button>
+    <button id="greenColor">Click to green Background</button>
+    <button id="grayColor">Click to Gray Background</button>
+    <button id="goldenColor">Click to Golden Background</button>
+    <h1 id="heading"></h1>
+    <button id="addHeading">Click to add </button>
+    <h1 id="text-input"></h1>
+  </div>
+
+
+  <textarea name="" id="text-area" cols="30" rows="10"></textarea>
+  <button id="addText">Click to add </button>
+  <script>
+
+    document.getElementById('addHeading').addEventListener('click', function () {
+      const h1 = document.getElementById('heading');
+      h1.innerText = "Added Heading 1 by using click handler";
+
+      // document.getElementById('heading').innerText = 'Most usable handler';
+    }
+    )
+
+    //text area input
+    document.getElementById('addText').addEventListener('click', function () {
+      const text = document.getElementById('text-area');
+
+      const pp = document.createElement('p');
+      pp.innerText = text.value;
+
+     const addd = document.getElementById('child-adding');
+     addd.appendChild(pp);
+     text.value = " ";
+
+    })
+
+
+
+
+  </script>
+  <script src="./script.js"></script>
+
+</body>
+
+</html>
